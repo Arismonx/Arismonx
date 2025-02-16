@@ -1,4 +1,4 @@
-## Hi ther Arismonx 🍙
+## Hi there Arismonx 🍙
 
 i am Full-Stack Deverloper.
 
