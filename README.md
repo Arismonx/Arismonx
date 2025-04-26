@@ -1,6 +1,7 @@
 ## Hi i'm Tuschy🍙
 
-i'm junior deverloper and back-end deverloper. Soon to be a full-stack developer.(●'◡'●)
+Hello! i'm junior back-end deverloper, I really like the Golang🔷. I'm currently practicing writing code with Golang.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,docker,elysia,github,nextjs,go,pnpm,postgres,react,postman,tailwind,ts,vercel,bun)](https://skillicons.dev)
+## Familiar with
+[![My Skills](https://skillicons.dev/icons?i=go,docker,postgres,ts)](https://skillicons.dev)
 
