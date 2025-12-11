@@ -4,5 +4,5 @@ Hello! i'm `comsci` and deverloper, I really love the `Golang🔷`.I am currentl
 
 
 ## Familiar with
-[![My Skills](https://skillicons.dev/icons?i=go,docker,postgres,ts,cpp,lua,elysia,bash,kafka,kubernetes,mongodb,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,docker,postgres,ts,cpp,lua,elysia,bash,kafka,kubernetes,mongodb,py,cs)](https://skillicons.dev)
 
