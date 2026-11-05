@@ -1,4 +1,4 @@
-# Hi, I’m Tuschy 
+# Hi, I’m Arismonx 
 
 I’m a computer science student and developer who enjoys building software, learning new technologies, and turning ideas into working projects. I’m especially interested in **Go**, **backend development**, and **DevOps**—and I also enjoy exploring game development and AI.
 
