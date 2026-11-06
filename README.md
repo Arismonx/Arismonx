@@ -27,6 +27,8 @@ I’m a computer science student and developer who enjoys building software, lea
 - [Coffee-Tuna-Liff](https://github.com/Arismonx/Coffee-Tuna-Liff) — Line OA about Coffee
 - [OpenTTD AI](https://github.com/Arismonx/Create-AI-In-Game-OpenTTD) — OpenTTD AI create road
 
+### Pure Skill Development
+- **Kaimon** — mini engine game (repository is private) 
 ## Technologies
 
 **Languages:** Go · TypeScript · C++ · Python · C# · Lua · Bash
