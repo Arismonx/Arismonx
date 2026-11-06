@@ -8,6 +8,7 @@ I’m a computer science student and developer who enjoys building software, lea
 -  **Backend development:** Building web services and application features.
 -  **DevOps:** Learning tools and practices for building, running, and maintaining software.
 -  **AI:** Use AI as a tool to help and study new AI technologies.
+-  **Game Engine:** i want challenges into develop my skill
 
 ## Projects
 
@@ -28,7 +29,7 @@ I’m a computer science student and developer who enjoys building software, lea
 - [OpenTTD AI](https://github.com/Arismonx/Create-AI-In-Game-OpenTTD) — OpenTTD AI create road
 
 ### Pure Skill Development
-- **Kaimon** — mini engine game (repository is private) 
+- **Kaimon** — mini game engine (repository is private) 
 ## Technologies
 
 **Languages:** Go · TypeScript · C++ · Python · C# · Lua · Bash
