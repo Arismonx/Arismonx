@@ -28,6 +28,9 @@ I’m a computer science student and developer who enjoys building software, lea
 - [Coffee-Tuna-Liff](https://github.com/Arismonx/Coffee-Tuna-Liff) — Line OA about Coffee
 - [OpenTTD AI](https://github.com/Arismonx/Create-AI-In-Game-OpenTTD) — OpenTTD AI create road
 
+### in collaboration
+- [Ship-it](https://github.com/GregoireF/ship-it) — handles git and GitHub: branches, conventional commits, pull requests, stacks and undo.
+
 ### Pure Skill Development
 - **Kaimon** — mini game engine (repository is private) 
 ## Technologies
